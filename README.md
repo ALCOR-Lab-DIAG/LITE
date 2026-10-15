@@ -27,7 +27,7 @@ LITE is a condition-aware detector built on this observation. It works in two st
 Each expert backbone was chosen as the best zero-shot VLM on its condition, among six open-source VLMs evaluated on a separate benchmark split.
 
 <p align="center">
-  <img src="assets/lite_architecture.png" width="80%" alt="LITE architecture">
+  <img src="lite_architecture.png" width="80%" alt="LITE architecture">
 </p>
 
 ---
